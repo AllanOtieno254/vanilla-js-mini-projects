@@ -1,6 +1,6 @@
 # 🚀 Vanilla JavaScript Mini Projects
 
-This repository contains **15 mini projects** built using **Vanilla JavaScript**. Each project is designed to improve JavaScript fundamentals, DOM manipulation, event handling, and API interaction.
+This repository contains **28 mini projects** built using **Vanilla JavaScript**. Each project is designed to improve JavaScript fundamentals, DOM manipulation, event handling, and API interaction.
 
 ## 📌 Features
 - **No frameworks** – Just pure JavaScript, HTML, and CSS.
