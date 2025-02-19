@@ -1,46 +1,61 @@
-# Vanilla JS Projects
+# 🚀 Vanilla JavaScript Mini Projects
 
-#### Enroll In The Course
+This repository contains **28 mini projects** built using **Vanilla JavaScript**. Each project is designed to improve JavaScript fundamentals, DOM manipulation, event handling, and API interaction.
 
-[My Javascript Course](https://www.udemy.com/course/javascript-tutorial-for-beginners-w/?referralCode=DD9FA6C0D976918D3E1C)
+## 📌 Features
+- **No frameworks** – Just pure JavaScript, HTML, and CSS.
+- **Beginner-friendly** – Simple, structured, and easy to follow.
+- **Real-world projects** – Includes modals, counters, APIs, dark mode, sliders, etc.
+- **Source code included** – Fully open-source and easy to customize.
 
-#### Support
+## 🎯 Topics Covered
+✅ DOM Manipulation
+✅ Event Listeners
+✅ Local Storage
+✅ Fetch API
+✅ Responsive Design
+✅ CSS Transitions & Animations
+✅ JavaScript ES6+ Features
 
-Find the Content Useful? [You can always buy me a coffee](https://www.buymeacoffee.com/johnsmilga)
 
-## You can see all projects in action here
 
-[Projects](https://www.vanillajavascriptprojects.com/)
 
-1. Color Flipper
-2. Counter
-3. Reviews
-4. Navbar
-5. Sidebar
-6. Modal
-7. Questions
-8. Menu
-9. Video
-10. Scroll
-11. Tabs
-12. Countdown Timer
-13. Lorem Ipsum
-14. Grocery Bud
-15. Slider
+---
 
-#### Course Exclusive
+## 🛠️ Projects Included
 
-16. Counters (OOP)
-17. Gallery (OOP)
-18. Numbers
-19. Dark Mode
-20. Filters
-21. Dad Jokes
-22. Products
-23. Random User
-24. Cocktails
-25. Slider
-26. Stripe Submenus
-27. Pagination
-28. Wikipedia
-29. Comfy Sloth
+| #  | Project Name        | Description |
+|----|--------------------|-------------|
+| 01 | **Color Flipper** | Change background colors on button click. |
+| 02 | **Counter** | A simple increment/decrement counter. |
+| 03 | **Reviews** | Show user reviews with next/prev buttons. |
+| 04 | **Navbar** | Responsive navigation menu. |
+| 05 | **Sidebar** | Toggleable sidebar. |
+| 06 | **Modal** | Open/close a modal window. |
+| 07 | **Questions** | Expand/collapse FAQ items. |
+| 08 | **Menu** | Filter menu items dynamically. |
+| 09 | **Video** | Play/Pause video with JS. |
+| 10 | **Scroll** | Scroll event effects. |
+| 11 | **Tabs** | Tabbed content navigation. |
+| 12 | **Countdown Timer** | Countdown to an event. |
+| 13 | **Lorem Ipsum** | Generate random text. |
+| 14 | **Grocery Bud** | Add/remove items from a list. |
+| 15 | **Slider** | Image slider with buttons. |
+| 16 | **Counter (Advanced)** | More counter functionality. |
+| 17 | **Gallery** | Image gallery with zoom. |
+| 18 | **Numbers** | Animated number counters. |
+| 19 | **Dark Mode** | Toggle dark/light theme. |
+| 20 | **Filters** | Filter list dynamically. |
+| 21 | **Dad Jokes API** | Fetch jokes from an API. |
+| 22 | **Products** | Display product list dynamically. |
+| 23 | **Random User API** | Fetch user data from API. |
+| 24 | **Cocktail API** | Fetch cocktail recipes. |
+| 25 | **Slider (Advanced)** | More slider features. |
+| 26 | **Stripe Submenus** | Dynamic submenu navigation. |
+| 27 | **Pagination** | Paginate list items dynamically. |
+| 28 | **Wikipedia API** | Search Wikipedia with API. |
+
+---
+
+## 📂 Project Structure
+Each project has its own folder with:
