@@ -57,5 +57,3 @@ This repository contains **28 mini projects** built using **Vanilla JavaScript**
 
 ---
 
-## 📂 Project Structure
-Each project has its own folder with:
